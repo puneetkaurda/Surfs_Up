@@ -17,7 +17,9 @@ The purpose of this challenge is to gather and analyze temperature data in Oahu 
 
 
 -The mean temperature of both months is warm and similar, with June being 74.94 and December being 71.04.
+
 -The max temperatures are also very similar, with June being 85 and December being 83.
+
 -The biggest difference between months is the minimum temperature. June's min temperature is 64, but December's is only 56.
 
 ## Summary:
